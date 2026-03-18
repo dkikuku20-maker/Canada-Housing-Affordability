@@ -95,8 +95,7 @@ This combination makes the analysis more complete and practical.
 
 ---
 
-## 📊 Visualizations
-(Add your plots here — screenshots or images)
+
 
 ---
 
