@@ -116,5 +116,3 @@ This project helps understand housing affordability using real data and can supp
 
 ---
 
-## 📬 Contact
-Feel free to connect with me on LinkedIn.
